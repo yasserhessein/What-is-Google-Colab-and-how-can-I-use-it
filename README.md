@@ -2,7 +2,7 @@ What is Google Colab and how can I use it
 # What-is-Google-Colab-and-how-can-I-use-it?
 
 
-https://www.kaggle.com/product-feedback/233136
+https://www.kaggle.com/yasserhessein/google-colab-and-how-can-i-use-it
 
 If you want help plz contact me
 
